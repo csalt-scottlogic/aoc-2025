@@ -24,3 +24,6 @@ target
 # Added by cargo
 
 /target
+
+#Advent of Code input files
+**/input.txt
